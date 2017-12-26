@@ -12,4 +12,7 @@ permalink: /impressum/
 <br>kontakt[at]fabiankarl[dot]de
 <p></p>
 <br><b>PGP Public Key</b>
-<br>Hier herunterladen
+<br><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x27CA622007EF6179
+">07EF6179</a>
+
+
